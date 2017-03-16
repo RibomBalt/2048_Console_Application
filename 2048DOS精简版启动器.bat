@@ -1,0 +1,1 @@
+java -jar ./2048_DOS¾«¼ò°æ.jar
